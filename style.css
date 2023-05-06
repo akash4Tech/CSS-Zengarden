@@ -1,0 +1,392 @@
+*{
+    font-family: 'Gothic A1', sans-serif;
+}
+
+html{
+    background: #daede2;
+    padding: 5%;
+}
+.css-zen-garden{
+    /* background: #333333; */
+    /* padding: 200px; */
+   
+}
+
+
+
+.page-wrapper{
+    background-color: #77c4d3;
+    /* margin: 75px 75px 75px 75px; */
+    padding: 60px;
+    height: 850%;
+
+}
+
+/* ---------------vertical-bar------ */
+.vertical-bar{
+  background: #333333;
+       position: absolute;
+    left: 73%;
+    top: -4%;
+    right: 0%;
+    height: 692%;
+    width: 27%;
+    opacity: 0.8;
+}
+
+/* -------------INTRO----------------- */
+
+.intro h1{
+
+    margin: 24px;
+    margin-top: 21px;
+    margin-bottom: 52px;
+    padding: 21px 23px 23px 23px;
+    margin-right: 910px;
+    width: 29%;
+    height: 2%;
+    color: aliceblue;
+    background-color: #ea2e49;
+    text-transform: uppercase;
+    font-size: 38px;
+    font-weight: 500;
+    word-spacing: 19%;
+
+}
+
+.intro h2{
+    font-size: 150px;
+    border: 0px;
+    margin-top: 0px;
+    color: aliceblue;
+    font-weight: 900;
+}
+
+.summary p {
+    
+    text-transform: uppercase;
+    word-spacing: 1px;
+    color: aliceblue;
+    font-size: 23px;
+    padding-right: 300px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    border: #77c4d3;
+    padding-bottom: 60px;
+    margin-right: 200px;
+}
+
+.summary a{
+    color: aliceblue;
+}
+
+
+/* -------------preable----------------- */
+
+#zen-preamble{
+
+    background: white;
+    padding: 50px;
+    position: relative;
+    right: 50%;
+    padding: 30px 0px 50px 40%;
+    right: 40%;
+    opacity: 80%;
+
+}
+
+.preamble h3{
+    
+    padding: 20px 50px 10px 0px ;  
+    font-size: 40px;
+    color: black;
+    font-weight: 400;
+  
+}
+
+
+.preamble p{
+    font-size: 22px;
+    color: black;
+    padding: 20px 50px 10px 0px ;
+    padding-top: 5px;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+/* -------------main supporting----------------- */
+
+
+.supporting{
+    padding: 0px 60px 0px 30px;
+
+}
+
+.explanation h3{
+    font-size: 40px;
+    color: white;
+    font-weight: 400;
+    padding: 30px;
+    padding-top: 25%;
+}
+
+.explanation p{
+    padding-right: 690px;
+    font-size: 22px;
+    color: aliceblue;
+    text-transform: uppercase;
+    margin: 15px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* -----------------zen-participation------------- */
+
+#zen-participation{
+    position: absolute;
+    background: #ea2e49;
+    width: 45%;
+    height: 247%;
+    top: 300%;
+    right: 111px;
+    left: 45%;
+    opacity: 80%;
+    
+   
+}
+
+.participation h3 {
+    font-size: 40px;
+    color: white;
+    font-weight: 400;
+    padding: 76px 30px 30px 60px; ;
+    padding-top: 150px;
+}
+
+
+
+.participation p{
+    padding-right: 15%;
+    padding-left: 10%;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 21px;
+    text-transform: uppercase;
+}
+
+.participation a{
+    color: aliceblue;
+}
+
+
+/* --------------benefits---------------- */
+
+
+#zen-benefits{
+    color: black;
+    font-weight: 400;
+    background: white;
+    margin-top: 269px;    
+    padding: 60px 892px 75px 60px;
+    right: 1115px;
+    left: 152px;
+
+}
+.benefits h3{
+    font-size: 40px;
+    color: black;
+    font-weight: 400;
+    padding: 30px; 
+}
+
+.benefits p{
+    font-size: 22px;
+    color: black;
+}
+
+
+/* -------------zen-requirements---------------- */
+
+#zen-requirements{
+        position: absolute;
+        color: black;
+        font-weight: 400;
+        background: white;
+        padding: 60px;
+        right: 141px;
+        top: 472%;
+        left: 463px;
+        margin-bottom: 40px;
+      
+    }
+
+    .requirements h3{
+        font-size: 40px;
+        color: black;
+        font-weight: 400;
+        padding: 30px;
+    }
+
+    .requirements p{
+        font-size: 22px;
+        letter-spacing: 1px;
+        color: black;
+    }
+
+
+
+
+    /* -------------design-selection---------------- */
+
+
+   .sidebar{
+    position: absolute;
+    color: black;
+    font-weight: 400;
+    background: #eaf299;
+    padding: 30px 30px 30px 0px;
+    width: 32%;
+    height: 190%;
+    top: 30%;
+    right: 99%;
+    left: 65%;
+    opacity: 0.9;
+
+}
+
+.design-selection li {
+    padding: 10px;
+
+}
+
+.design-selection h3{
+
+        font-size: 40px;
+        color: black;
+        font-weight: 400;
+        padding: 30px;
+}
+
+.design-selection {
+    list-style: none;
+    font-size: 20px;
+    color: black;
+    font-weight: 400;
+    padding: 30px;
+
+
+    }
+
+
+
+    /* ==========design-archives========== */
+
+#design-archives{
+padding: 0px 30px 0px 50px;
+padding-left: 50px;
+color: black;
+padding-bottom: 0px;
+}
+
+.design-archives li {
+    padding: 10px;
+
+}
+
+ul{
+    list-style: none;
+    letter-spacing: 1px;
+}
+
+a{
+    color: black;
+    font-size: 20px;
+}
+
+
+.design-archives h3{
+    font-size: 40px;
+    color: black;
+    font-weight: 400; 
+    padding: 20px;
+}
+
+
+
+
+
+
+    /* ==============zen-resources=============== */
+
+
+    #zen-resources{
+
+        padding: 30px;
+        padding-bottom: 0px;
+        
+    }   
+    
+    
+    .zen-resources li {
+        padding: 10px;
+    
+    }
+    
+    .zen-resources h3 {
+        padding-left: 30px;
+        font-size: 40px;
+        color: black;
+        font-weight: 400; 
+    }
+
+
+    /* ----------------footter------------ */
+    
+    #zen-fotter{
+        position: absolute;
+        background:#eaf299;
+        top: 639%;
+        right: 45%;
+       padding: 22px 234px 20px 20px;
+       word-spacing: 20px;
+       letter-spacing: 2px;
+        
+    }
+
+
+
+
+
+
+.zen-fotter-class a{
+    color: #333333;
+    font-weight: 600;
+    font-size: 21px;
+    text-transform: uppercase;
+    word-spacing: 5px;
+
+}
+
+
+
+
+// X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... }
